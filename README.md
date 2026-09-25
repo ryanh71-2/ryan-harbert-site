@@ -1,6 +1,6 @@
-# Ryan Harbert website — private first draft
+# Ryan Harbert website — first draft
 
-This is a static website designed for Cloudflare Pages. Its deploy output directory is `public`; no build command is needed. The source can live in a private GitHub repository. The website itself becomes public only when a production deployment is published.
+This is a static website designed for Cloudflare Pages. Its deploy output directory is `public`; no build command is needed. The current GitHub repository is public, so its source files are visible. The website gets a live URL after a Cloudflare Pages deployment.
 
 ## Review before launch
 
