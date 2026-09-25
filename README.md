@@ -5,7 +5,7 @@ This is a static website designed for Cloudflare Pages. Its deploy output direct
 ## Review before launch
 
 - Ryan's preferred public contact email or booking link has not been supplied. Add it to the Sessions page and footer after Ryan chooses it.
-- No personal photographs have been selected. Replace the text-only editorial layout with Ryan's photographs as he chooses them; do not use stock photos.
+- The homepage uses Ryan’s original field, mushroom, and river photographs. Preserve the original photographs and use CSS for display framing; do not use stock photography.
 - Newsletter signup has not been connected. Add the signup form when Ryan chooses a newsletter provider.
 - Suggested self-selected fee amounts have not been supplied. Add them to Sessions after Ryan confirms them.
 - Review every public claim and the wording of the About page with Ryan.
@@ -17,3 +17,7 @@ In Cloudflare Pages, connect the GitHub repository, leave the build command blan
 ## Ongoing writing
 
 Add a new HTML file in `public/writing/`, then link it on `public/writing/index.html` and, when appropriate, the homepage. Keep the prose and image choices approved by Ryan before publishing. Preserve the site's quiet tone and avoid inventing personal details or outcomes.
+
+## Visual direction
+
+Follow the image-led mockups and subsequent discussion: warm cream paper, muted green, readable serif text, an opening photograph without text over it, three personal photographs, alternating photo and text sections, and quiet links. Keep the homepage useful without a booking. Avoid oversized promotional headlines and invented article listings.
