@@ -53,5 +53,3 @@ Reading can give you an introduction. Experiencing the process helps you underst
 Sometimes what comes is a small easing. Sometimes it is fresh understanding, or a sense of a next step that feels right. For me, when something shifts, there is almost always a feeling of freshness—of life moving forward where it had been stuck.
 
 That experience has helped me heal. It keeps me practicing, and it is what I want to help others find.
-
-If you’d like to experience this with support, [I offer a free first session](/sessions/#contact).
