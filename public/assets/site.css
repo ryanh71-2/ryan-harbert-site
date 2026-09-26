@@ -32,3 +32,8 @@ figure{margin:0}img{display:block;width:100%;height:auto}.wrap{width:min(calc(10
 @media(max-width:1050px){.hero,.attention,.invitations{gap:40px}.hero-copy>p:not(.eyebrow),.attention-copy p{font-size:1.08rem}}
 @media(max-width:760px){.brand{font-size:1.5rem}.hero{grid-template-columns:1fr;gap:28px;padding:24px 0 42px}.hero-copy h1{font-size:1.85rem}.hero-copy>p:not(.eyebrow),.attention-copy p{font-size:1.1rem}.hero-photo{max-width:520px}.hero-photo img{aspect-ratio:1/1.08}.attention{grid-template-columns:1fr;gap:28px;padding-bottom:32px}.detail-photo{width:85%;max-width:380px}.attention-copy h2,.editorial-row h2{font-size:1.85rem;margin-bottom:18px}.invitations{grid-template-columns:1fr;gap:32px;padding:8px 0 40px}.header-inner{flex-wrap:wrap;gap:4px;padding-block:18px}.site-nav{gap:20px}.footer-inner{gap:16px}}
 @media(max-width:440px){.site-nav{width:100%}.hero-copy h1{font-size:1.75rem}}
+
+.link-arrow{display:inline-block;width:.85em;height:.85em;margin-left:.2em;vertical-align:-.05em;fill:none;stroke:currentColor;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round}
+.attention{grid-template-areas:"photo copy"}.attention-copy{grid-area:copy}.attention .detail-photo{grid-area:photo}
+.contact-email{overflow-wrap:anywhere}.contact-phone a{display:inline-block;padding-block:8px}#contact{scroll-margin-top:24px}
+@media(max-width:760px){.attention{grid-template-areas:"copy" "photo"}}
