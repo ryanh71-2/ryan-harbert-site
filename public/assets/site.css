@@ -48,6 +48,6 @@ figure{margin:0}img{display:block;width:100%;height:auto}.wrap{width:min(calc(10
 /* Small photographs within the reading column */
 .article-photo{width:min(100%,520px);margin:0 auto 40px;overflow:hidden}
 .article-photo img{width:100%;height:auto;aspect-ratio:13/9;object-fit:cover}
-.article-photo--mushroom img{object-position:50% 46%}
+.article-photo--mushroom img{object-position:50% 30%}
 .article-photo--river img{object-position:50% 30%}
 @media(max-width:760px){.article-photo{margin-bottom:30px}}
